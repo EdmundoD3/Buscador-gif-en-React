@@ -1,0 +1,7 @@
+.Gif {
+    border: 1px solid #eee;
+    border-radius: 6px;
+    display: flex;
+    margin: 1rem;
+    width: 100%;
+}
